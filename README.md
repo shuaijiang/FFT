@@ -1,8 +1,12 @@
 #FFT
 - Fast Fourier Transform
 
+#Run FFT(Java)
+- cd FFT
+- java com.FFT 8(8 can be replaced by other integers)
+
 # FFT(C++)
-- Writen in C++
+- Writen by C++
 - Author: shuaijiang
 - Email: zhaoshuaijiang8@gmail.com
 
